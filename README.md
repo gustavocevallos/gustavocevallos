@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Dattax**
 
-- 👯 I’m looking to collaborate on **financial projects**
+- 👯 I’m looking to collaborate on **data analysis projects**
 
 - 💬 Ask me about **Data visualization tools such as Power BI and databases such as MySQL**
 
